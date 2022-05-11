@@ -130,15 +130,10 @@ img {
 
  /* TABLET */
 
-.container{
-    max-width: 1440px;
-}
 @media screen and (max-width: 768px){
-   
     .container{
-        width: 90%;
+        width: 100%;
     }
-   
 }
 
 /* MOBILE */
